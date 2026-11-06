@@ -1,7 +1,7 @@
 name: Generate uBlacklist Subscription
 
 permissions:
-  contents: write   # give the default GITHUB_TOKEN push rights
+  contents: write # give the default GITHUB_TOKEN push rights
 
 on:
   schedule:
@@ -25,7 +25,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true   # keep the token for git push
+          persist-credentials: true # keep the token for git push
 
       - name: Set up Python
         uses: actions/setup-python@v4
