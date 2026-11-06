@@ -8,9 +8,9 @@ home: https://github.com/tom22k/ublacklist-blocklists
 # author:                   tom22k <143504320+tom22k@users.noreply.github.com>
 # url:                      https://raw.githubusercontent.com/tom22k/ublacklist-blocklists/main/nsfw/blocklist.txt
 # licence:                  GPL-3.0 license
-# entries:                  673,497
+# entries:                  673,504
 # update frequency:         7 days
-# last modified:            2026-11-06T22:42:33.797402+00:00
+# last modified:            2026-11-06T23:08:25.889474+00:00
 # sources (re-formatted for uBlacklist):
 #   Energized Protection's NSFW domains list: https://energized.pro/nsfw/domains.txt
 #   Blocklist Project's Porn No IP list: https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt
@@ -40615,6 +40615,7 @@ home: https://github.com/tom22k/ublacklist-blocklists
 *://*.aint-it.cool-news.com/*
 *://*.ainternetcasinos.com/*
 *://*.aintitcool.com/*
+*://*.ainude.ai/*
 *://*.ainude.best/*
 *://*.ainude.photos/*
 *://*.ainude.pictures/*
@@ -167623,6 +167624,7 @@ home: https://github.com/tom22k/ublacklist-blocklists
 *://*.drawntohentai.com/*
 *://*.drawntoplease.com/*
 *://*.drawnudes.app/*
+*://*.drawnudes.io/*
 *://*.drawnudes.net/*
 *://*.drawstory.com/*
 *://*.drawxxxvideos.com/*
@@ -350607,6 +350609,7 @@ home: https://github.com/tom22k/ublacklist-blocklists
 *://*.makemygay.com/*
 *://*.makemyporn.com/*
 *://*.makemytripmood.club/*
+*://*.makenude.ai/*
 *://*.makenude.pro/*
 *://*.makenudeai.app/*
 *://*.makeovermilf.com/*
@@ -397769,6 +397772,7 @@ home: https://github.com/tom22k/ublacklist-blocklists
 *://*.nubbwporn.com/*
 *://*.nubdsm.com/*
 *://*.nubedube.com/*
+*://*.nubee.ai/*
 *://*.nubeffen.nl/*
 *://*.nubeles-porn.com/*
 *://*.nubelesporn.com/*
@@ -495334,6 +495338,7 @@ home: https://github.com/tom22k/ublacklist-blocklists
 *://*.selfiescorts.es/*
 *://*.selfiesswap.com/*
 *://*.selfiesuck.com/*
+*://*.selfievibe.art/*
 *://*.selfieweb.top/*
 *://*.selfilmizle.com/*
 *://*.selfishtube.com/*
@@ -577364,6 +577369,7 @@ home: https://github.com/tom22k/ublacklist-blocklists
 *://*.teletjejerna.se/*
 *://*.teletone.gay/*
 *://*.teletti.com/*
+*://*.teletype.in/*
 *://*.televandalist.com/*
 *://*.televideo.nl/*
 *://*.televisionlibre.xyz/*
@@ -606203,6 +606209,7 @@ home: https://github.com/tom22k/ublacklist-blocklists
 *://*.undressing-room.com/*
 *://*.undressing.ai/*
 *://*.undressing.app/*
+*://*.undressing.io/*
 *://*.undressing.online/*
 *://*.undressing.xxx/*
 *://*.undressingai.pro/*
