@@ -1,12 +1,12 @@
 ---
-name: Thomas Krol's uBlacklist NSFW blocklist
+name: tom22k's uBlacklist NSFW blocklist
 description: A uBlacklist blocklist to remove NSFW websites from your search results.
-home: https://github.com/thomaskrol/ublacklist-blocklists
+home: https://github.com/tom22k/ublacklist-blocklists
 ---
 
-# report a false positive:  https://github.com/thomaskrol/ublacklist-blocklists/issues
-# author:                   Thomas Krol <thomaskrol22@pm.me>
-# url:                      https://raw.githubusercontent.com/thomaskrol/ublacklist-blocklists/main/nsfw/blocklist.txt
+# report a false positive:  https://github.com/tom22k/ublacklist-blocklists/issues
+# author:                   tom22k Krol <143504320+tom22k@users.noreply.github.com>
+# url:                      https://raw.githubusercontent.com/tom22k/ublacklist-blocklists/main/nsfw/blocklist.txt
 # licence:                  GPL-3.0 license
 # entries:                  303,680
 # update frequency:         7 days
